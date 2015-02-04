@@ -1,2 +1,5 @@
 # hello-world
-my first repository for learning use
+
+Hi Humans!
+
+I like Java.
